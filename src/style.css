@@ -1,0 +1,19 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+body .text-title {
+  font-size: 25px;
+}
+
+.container .sketch {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  margin: 0;
+}
+
+.container .sketch canvas {
+  border: 2px solid grey;
+  box-shadow: 0 0 5px black;
+}
